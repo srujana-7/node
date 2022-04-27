@@ -2,9 +2,10 @@
 
 This is a student enrollment process management for online programs
 
-Collections and Routes developed  - description 
 database name - myDatabase
+Collections and Routes developed  - description 
 
+-----------------------------------------------------------------------------------------------------------------------
 program     -  CRUD  for programs / courses
 
 user        -  CRUD  for  users data
@@ -23,5 +24,6 @@ payment          - CRUD for payment process data
 
 enrollmentData   - CRUD  for all enrollments -collects data of the overall status of enrollment process  of individual user
 
+----------------------------------------------------------------------------------------------------------------------------
 routes have all controller logic , yet to be separated into controllers
 
